@@ -1,0 +1,28 @@
+10
+
+dir
+0
+http://source.jeroenwijering.com/svn/tags/mediaplayer-3-14/promaconf
+http://source.jeroenwijering.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+343ee797-4041-4178-8c7d-062b6b8ad9c2
+

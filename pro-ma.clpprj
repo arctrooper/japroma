@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="F:\Server\htdocs\pro-ma\pro-ma.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/pro-ma/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/pro-ma/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><codestructure>
+		<phptree>
+		</phptree>
+		<jstree>
+		</jstree>
+		<file name="F:\Server\htdocs\pro-ma\pro-ma.clpprj" crc="2037026456"/>
+		<file name="F:\Server\htdocs\pro-ma\index.php" crc="1604745361"/>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><smartyassings>
+	</smartyassings></project>
